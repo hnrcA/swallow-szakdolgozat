@@ -1,0 +1,24 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "326fc6a251268596cf2beb3107290632c56a65bc2fe27b70e2878bca3715f887"
+build_start_time: [1687803595, 627531000]
+build_end_time: [1687803595, 661930000]
+inputs:
+  "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift": !private [1687803590, 597392942]
+  ? "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1687803590, 597828773]
+  ? "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : !private [1687803590, 598155645]
+  ? "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1687803590, 598338727]
+  ? "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1687803590, 598498393]
+  ? "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1687803590, 598795766]
+  "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift": !private [1687803590, 597524525]
+  "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift": !private [1687803590, 597255985]
+  "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift": !private [1687803590, 598942056]
+  "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift": !private [1687803590, 598658267]
+  ? "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1687803590, 597674607]
+  ? "/Users/hnrc/Desktop/swallow/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1687803590, 597997646]

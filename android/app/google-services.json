@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "823709679519",
+    "project_id": "swallow-299e7",
+    "storage_bucket": "swallow-299e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823709679519:android:85ff0f14c3fd3e03b2c7aa",
+        "android_client_info": {
+          "package_name": "com.example.swallow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823709679519-35h9896e3kcqsh3s7bop19agvvaha5jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3GV3tU0W9o4IN64FZDIDmqLKY9ikRzUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823709679519-2aai8kqtj0c833q3s979u33jja5ti3qi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823709679519-e9kao1cq0djcbtmsd2spm8sdoc2he86t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.swallow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
